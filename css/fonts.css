@@ -1,0 +1,47 @@
+
+@font-face {
+	font-family: 'PF DinText Pro';
+	src: url('fonts/PFDinTextPro-Regular.eot');
+	src: url('fonts/PFDinTextPro-Regular.woff') format('woff'), url('fonts/PFDinTextPro-Regular.ttf') format('truetype'), url('fonts/PFDinTextPro-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display:swap;
+}
+@font-face {
+	font-family: 'PF DinText Pro';
+	src: url('fonts/PFDinTextPro-Medium.eot');
+	src: url('fonts/PFDinTextPro-Medium.woff') format('woff'), url('fonts/PFDinTextPro-Medium.ttf') format('truetype'), url('fonts/PFDinTextPro-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+	font-display:swap;
+}
+@font-face {
+	font-family: 'PF DinText Pro';
+	src: url('fonts/PFDinTextPro-Light.eot');
+	src: url('fonts/PFDinTextPro-Light.woff') format('woff'), url('fonts/PFDinTextPro-Light.ttf') format('truetype'), url('fonts/PFDinTextPro-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+	font-display:swap;
+}
+@font-face {
+	font-family: 'PF DinText Pro';
+	src: url('fonts/PFDinTextPro-Bold.eot');
+	src: url('fonts/PFDinTextPro-Bold.woff') format('woff'), url('fonts/PFDinTextPro-Bold.ttf') format('truetype'), url('fonts/PFDinTextPro-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-display:swap;
+}
+
+
+@font-face {
+	font-family: 'icomoon';
+	src:  url('fonts/icomoon.eot?48b5om');
+	src:  url('fonts/icomoon.eot?48b5om#iefix') format('embedded-opentype'),
+	url('fonts/icomoon.ttf?48b5om') format('truetype'),
+	url('fonts/icomoon.woff?48b5om') format('woff'),
+	url('fonts/icomoon.svg?48b5om#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+	font-display:swap;
+}
